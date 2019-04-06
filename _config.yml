@@ -1,0 +1,38 @@
+# Site settings
+title: "Sergey Zolotov"
+email: mount.ash@gmail.com
+description: "Software Engineer, IT-Consultant"
+baseurl: ""
+url: "https://mountash.github.io/"
+title_description: "I've created this page mainly in order for me to have a place where I can gather all the information I am interested in regarding development and configuration. <br> I'll be glad if it would be useful for you too"
+title_image: "/images/profile_400x400.jpeg"
+# google_analytics: "UA-"
+#disqus_account: cartenoire
+# github_repository: https://github.com/jacobtomlinson/carte-noire
+#addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: mount_ash
+github_username:  mountash
+instagram_username: mountash
+#reddit_username: no
+#linkedin_link: no
+#google_plus_link: no
+#stackoverflow_link: no
+#xing_link: no
+#facebook_link: no
+
+# Footer
+footer_left: "Content created with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/mount_ash\">Sergey Zolotov</a>"
+footer_right: "<i class=\"fa fa-code\"></i> on <a href=\"https://github.com/mountash/mountash.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]

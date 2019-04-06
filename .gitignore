@@ -1,1 +1,11 @@
+# IDE files
 .idea
+
+# Ruby
+Gemfile.lock
+
+# jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
